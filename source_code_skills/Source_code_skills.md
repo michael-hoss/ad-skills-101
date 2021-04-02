@@ -1,4 +1,4 @@
-# Source code skills
+# 👩‍💻 Source code skills
 
 The most essential programming languages for automated driving are:
 
@@ -11,12 +11,12 @@ Universities usually teach at least one higher-level programming language to tec
 If you are taught Java oder MATLAB there, still try to make the best out of it because learning those also helps you learn other languages later on.
 
 
-### Learn one language properly first
+### 🎯 Learn one language properly first
 
-To avoid confusion, make sure to **start with only one language, but learn that language in depth**. Choose the language you need most for reaching your next goal.
+To avoid confusion, make sure to start with only one language, but learn that language in depth. Choose the language you need most for reaching your next goal.
 You can learn the other language later on.
 
-### Source code topics to cover in any language
+### 💻 Source code topics to cover in any language
 
 No matter which languge you learn, you should cover 
 - basic syntax like functions, loops, if-else, switch case etc.
@@ -27,7 +27,7 @@ No matter which languge you learn, you should cover
 - graphical user interfaces
 
 
-### How to google properly
+### 🔍 How to google properly
 
 Also experienced programmers don't hesitate to google all kinds of programming issues.
 This workflow could help you:
