@@ -54,7 +54,7 @@ If you aim at writing a scientific thesis (Bachelor, Master, PhD), or publish sc
 
 After all, it is extremely helpful to know the degree to which the problem you are working on has already been solved in the literature. 
 
-## 👩‍💻 Managing the chaos: [Software project skills](software_project_skills/Software_project_skills.md)
+## 🧠 Managing the chaos: [Software project skills](software_project_skills/Software_project_skills.md)
 
 Natually, your projects grow to a size where the source code and the architecture become messy, more and more bugs occur, and fixing one creates another. Therefore, you should learn to avoid those struggles and instead do what is necessary to let your project sustainably grow over multiple years. This includes 
 - clean code
