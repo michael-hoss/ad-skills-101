@@ -2,8 +2,13 @@
 
 This repository collects resources that teach you the most essential fundamentals to thrive in R&D of automated driving. Our aim is to provide practical hands-on skills that theoretical university lectures often don't cover. 
 
+## How this repository works
 
-##  Start your journey with a tangible goal
+- Individual pages include links to subpages in subfolders with more specific contents.
+- If have recommendations or want to contribute to this project, check out [Contributing](Contributing.md)
+
+
+##  [Start your journey with a tangible goal]
 
 Ideally, you already desire mastering a certain practical project within automated driving, but notice that you are lacking some fundamentals to make decent progress. This is the perfect time to refresh your skills with the following materials. 
 

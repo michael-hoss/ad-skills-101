@@ -1,7 +1,5 @@
 # Source code skills
 
-Universities usually teach at least one higher-level programming language to technical students. Try to take as much as possible from that university course.
-
 The most essential programming languages for automated driving are:
 
 | Language (with link to subpage)  | Difficulty | Application |
@@ -9,11 +7,13 @@ The most essential programming languages for automated driving are:
 | [**C++**](C++.md)     | hard (but worth it!)  | manually written code whose execution must be as fast as possible |
 | [**Python**](Python.md)  | easy (but also worth it!) | training neural networks, prototyping, and many other things |
 
+Universities usually teach at least one higher-level programming language to technical students. 
+If you are taught Java oder MATLAB there, still try to make the best out of it because learning those also helps you learn other languages later on.
 
 
 ### Learn one language properly first
 
-Make sure to **start with only one language, but learn that language in depth**. Choose the language you need most for reaching your next goal.
+To avoid confusion, make sure to **start with only one language, but learn that language in depth**. Choose the language you need most for reaching your next goal.
 You can learn the other language later on.
 
 ### Source code topics to cover in any language
@@ -49,7 +49,8 @@ This workflow could help you:
   - It is often easier to understand than a detailed theoretical documentation. 
   - You can directly copy-paste it into your own project and adapt it there according to your needs.
 - It is common to have ~100 search queries on a day of coding.
-- Further resource: 10min YouTube Video [How to Google like a Pro Developer](https://www.youtube.com/watch?v=DQHyoHgRkkw)
+- Further resources: 
+  - 10min YouTube Video [How to Google like a Pro Developer](https://www.youtube.com/watch?v=DQHyoHgRkkw)
 
 
 
