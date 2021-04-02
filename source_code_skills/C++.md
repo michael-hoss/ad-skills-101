@@ -18,7 +18,7 @@ Related to this, there is much complicated syntax with operators like `*&[]->`. 
   - you can learn other languages much easier.
   - you can understand what is happening under the hood in other languages that hide away all these complicated concepts from you.
 - Modern C++ is already much easier to write than traditional C++!
-  -  While traditional C++, e.g. C++03 (version number always corresponds to the year, 2011) was pretty bare-bones, in C++11, C++14, C++17 and C++20, much beginner-friends syntax was introduced that makes your code shorter and easier to write, read, and understand.
+  -  While traditional C++, e.g. C++03 (version number corresponds to the year) was pretty bare-bones, in C++11, C++14, C++17 and C++20, much beginner-friendly syntax was introduced that makes your code shorter and easier to handle.
 
 
 ## Useful resources
