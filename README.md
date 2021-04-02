@@ -12,17 +12,15 @@ This repository collects resources that teach you the most essential fundamental
 
 Ideally, you already desire mastering a certain practical project within automated driving, but notice that you are lacking some fundamentals to make decent progress. This is the perfect time to refresh your skills with the following materials. 
 
-## Most essential: source code skills
+## Most essential: [Source code skills](source_code_skills/Source_code_skills.md)
 
-You typically start by learning the syntax of a higher-level programming language. The most common programming languages for automated driving are C++ and Python. 
+You typically start by learning the syntax of a higher-level programming language. The most common programming languages for automated driving are [C++](source_code_skills/C++.md) and [Python](source_code_skills/Python.md). 
 
-Check out [source_code_skills/Source_code_skills.md](source_code_skills/Source_code_skills.md) to learn more.
 
-## Super essential: basic tooling skills
+## Super essential: [Tooling skills for programming](basic_tooling_skills/Basic_tooling_skills.md)
 
 Being able to produce good source code is not enough to get your project running. You should understand the Linux operating system, virtual machines, the command line, version control using Git and GitHub/GitLab, modern IDEs (integrated development environments), ROS (the robot operating system), and tooling specific to your programming languages such as CMake for building C++ code and package managers and virtual environments for Python projects.
 
-Check out [basic_tooling_skills/Basic_tooling_skills.md](basic_tooling_skills/Basic_tooling_skills.md)
 
 ## What you actually want: automated driving skills 
 With the previously covered skills, you can again dive deeper into what you actually want to do: automated driving. The typical topics of function development are sensing, perception, prediction, planning, control, and actuation. Furthermore, safety assurance and impact assessment are crucial for actually getting automated vehicles on the road. This also includes machine learning.
