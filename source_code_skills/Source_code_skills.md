@@ -1,29 +1,52 @@
 # Source code skills
 
-Universities usually teach at least one higher-level programming language to technical students. Try to take as much as possible from this course!
+Universities usually teach at least one higher-level programming language to technical students. Try to take as much as possible from that university course.
 
 The most essential programming languages for automated driving are:
 
-- C++ (harder to learn): for manually written code whose execution must be as fast as possible 
-- Python (easier to learn): for training neural networks, prototyping, and many other things
+| Language (with link to subpage)  | Difficulty | Application |
+| ------------- | ------------- | ------- |
+| [**C++**](source_code_skills/C++.md)     | hard (but worth it!)  | manually written code whose execution must be as fast as possible |
+| [**Python**](source_code_skills/Python.md)  | easy (but also worth it!) | training neural networks, prototyping, and many other things |
 
 
-Make sure to **start with only one language, but learn with that language in depth**. You can learn the other language when you know you will actually need it. 
 
-In any case, you should cover basic syntax like functions, loops, and if-else, object-oriented design, and reading and writing from files.
+### Learn one language properly first
+
+Make sure to **start with only one language, but learn that language in depth**. Choose the language you need most for reaching your next goal.
+You can learn the other language later on.
+
+### Source code topics to cover in any language
+
+No matter which languge you learn, you should cover 
+- basic syntax like functions, loops, if-else, switch case etc.
+- reading and writing from files and from the command line
+- object-oriented design
+- the standard library and other most common libraries
+- common data structures like arrays, lists, maps/dictionaries
+- graphical user interfaces
 
 
-## C++ 
+### How to google properly
 
-TODO: structure better!!
+Also experienced programmers don't hesitate to google all kinds of programming issues.
+This workflow could help you:
 
-*  Tutorial [w3schools.com](https://www.w3schools.com/cpp/default.asp)
-*  Tutorial [cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
-*  [C++ online IDE](http://cpp.sh/) 
-*  [Documentation of cplusplus.com](http://www.cplusplus.com/reference/)
-*  [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): recommendation for sticking to a common style of naming variables, formatting code, ...
+- You are programming
+- You get stuck, e.g.
+  - you have forgotten the syntax of a for-loop in C++
+  - you get a strange error in the command line when compiling of executing your program
+- You google 
+  - "for loop cpp"
+  - or use the copy-pasted error message as a search string
+- If the first three results don't offer what you are looking for, chances are you should refine your search string
+  - e.g. "for loop cpp example syntax" or "range-based for loop cpp 17 example" 
+  - try to remove all parts of the error message that are specific to your individual program
+- If the search result is a forum such as www.stackoverflow.com
+  - First, read the code snippet from the first reply. Often, this is what you are looking for.
+  - If it does not help you immediately, only then read the question etc. to get the context
+- If the search result is an official code documentation
+  - You might want to look for example code because it is often easier to understand and copy-paste into your own project than a detailed theoretical documentation!
+- It is common to have ~100 search queries on a day of coding.
 
 
-## Python 
-
-TODO
