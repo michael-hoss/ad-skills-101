@@ -8,11 +8,9 @@ This repository collects resources that teach you the most essential fundamental
 - If have recommendations or want to contribute to this project, check out [Contributing](Contributing.md)
 
 
-##  [Start your journey with a tangible goal]
+##  [Start your journey with a tangible goal](projects/Projects.md)
 
 Ideally, you already desire mastering a certain practical project within automated driving, but notice that you are lacking some fundamentals to make decent progress. This is the perfect time to refresh your skills with the following materials. 
-
-Check out [projects/Projects.md](projects/Projects.md) if you are still looking for a future project. 
 
 ## Most essential: source code skills
 
