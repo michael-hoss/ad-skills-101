@@ -46,10 +46,10 @@ You might program awesome systems, export impressive figures, write in English l
 However, the readers of your paper will only comprehend that and believe you if your claims are backed up by a clear logical argumentation.
 
 I would like to provide more material about this, but for now, can only provide this ad-hoc-searched list. Contributions are welcome.
-| Topic | Description |
+| Topic | Resource Description |
 | ---- | --------  |
 | [Induction vs. deduction](https://conjointly.com/kb/deduction-and-induction/) | Website |
-| [Distinguishing correlation and causation in complicated situations](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) | Wikipedia page |
+| Distinguishing [correlation and causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) in complicated situations] | Wikipedia page |
 | [SPRO 100: Scientific Reasoning](https://lpsonline.sas.upenn.edu/academics/courses/spro-100-scientific-reasoning) | MOOC by UPenn |
 
 
