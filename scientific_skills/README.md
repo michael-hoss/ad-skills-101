@@ -62,7 +62,7 @@ In your thesis, you are expected to demonstrate scientific writing skills no mat
 - [Scientific Writing for Bachelor and Master Candidates](https://www.sz.rwth-aachen.de/cms/SZ/Schreibzentrum/Veranstaltungen/~lkmeu/Kurse-auf-Englisch/?lidx=1) (elective course of RWTH Aachen Language Center)
 - [English for Writing Research Papers](https://www.springer.com/de/book/9781441979223) (Textbook)
 
-### :microscope: How is science organized
+### :microscope: Understanding how science is organized
 
 Which respective roles do industry and academia play in R&D? Are the goals of fundamental and applied research different? Why is my individual research project funded at all? In applied research, where is the line between creation of public knowledge and regional economic support?
 
