@@ -52,15 +52,18 @@ One of the tools that can leverage the productivity of you and your team most is
 In this setting, chances are that you do not enjoy working simultaneously, resolving conflicts, going back farther than <kbd>Ctrl</kbd>+<kbd>Z</kbd> allows, or tracing back whom to ask regarding a specific code part.
 
 The good news is that the version control system Git makes all of these things super easy, so you should definitively learn it!
-A YouTube tutorial that seems to cover all essentials is [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk).
+The following YouTube tutorial seems to cover all essentials.
+
+[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk).
 
 Furthermore, terms to differentiate are:
 - [Git](https://git-scm.com/): the version control system itself; it is a local command line application.
 - [GitHub](https://github.com/): the most popular website/online service for hosting open source Git repositories, such as this one. Additionally, the company GitHub releases more and more Git-related software for Desktop computers.
-- [GitLab](https://about.gitlab.com/): similar hosting service like GitHub, but you can also install a free and open source version of it on your own server.
-- [GitFlow](): a workflow for the integration of multiple software features from different developers into a single stable version
-- [GitKraken](): one of the most popular desktop GUIs (graphical user interfaces) for Git that helps you manage your Git repository.
-
+- [GitLab](https://about.gitlab.com/): similar hosting service like GitHub, but you can also install a free and open source version of it on your own server. For example, RWTH has the
+  - [premium GitLab version]((https://git.rwth-aachen.de/)) for education, and the
+  - [free and open source GitLab version](https://git-ce.rwth-aachen.de) for projects with industry partners.
+- [GitKraken](https://www.gitkraken.com/): one of the most popular desktop GUIs (graphical user interfaces) for Git that helps you manage your Git repository.
+- A *Git workflow*: a way to integrate multiple software features that have been developed by different people on different so-called *Git branches* into one single stable branch. Example video: [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI&t=41s).
 
 ## IDEs
 
