@@ -22,7 +22,7 @@ You typically start by learning the syntax of a higher-level programming languag
 ### 🔧 Super essential: [Tooling skills for programming](basic_tooling_skills/README.md)
 
 Being able to produce good source code is not enough to get your project running. You also need to build skills in:
-- Linux operating system
+- [Setting up a Linux operating system](basic_tooling_skills/Setting_up_Linux.md)
 - Computer science fundamentals and command line tools
 - ROS (the robot operating system)
 - Version control using Git and GitHub or GitLab
