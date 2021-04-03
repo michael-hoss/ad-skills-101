@@ -42,7 +42,16 @@ Other choices are [Mendeley](https://www.mendeley.com/reference-management/refer
 
 ### :brain: Critical and scientific reasoning
 
-How to structure your methods according to  a logical argumentation? How to evaluate your findings critically? Interesting topics could be the difference between induction and deduction; or being able to distinguish correlation and causation in complicated situations. I know too little literature or course material about this to be able to recommend something, but I am curious about whether courses like this have been helpful to others.
+You might program awesome systems, export impressive figures, write in English like a native speaker, and claim to have developed or found out something outstanding.
+However, the readers of your paper will only comprehend that and believe you if your claims are backed up by a clear logical argumentation.
+
+I would like to provide more material about this, but for now, can only provide this ad-hoc-searched list. Contributions are welcome.
+| Topic | Description |
+| ---- | --------  |
+| [Induction vs. deduction](https://conjointly.com/kb/deduction-and-induction/) | Website |
+| [Distinguishing correlation and causation in complicated situations](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) | Wikipedia page |
+| [SPRO 100: Scientific Reasoning](https://lpsonline.sas.upenn.edu/academics/courses/spro-100-scientific-reasoning) | MOOC by UPenn |
+
 
 
 ###  :pencil: Scientific writing
@@ -64,6 +73,6 @@ Somewhat related to this, RWTH has introduced the online course "[Scientific Int
 
 ### :shit: Recognizing pseudo-science
 
-If common guidelines for good research practice are not followed, so-called Bullshit can happen. There has been a pretty informative course called [Calling Bullshit](https://www.callingbullshit.org/) at the University of Washington dealing with precisely this, and its lectures are available on YouTube. 
+If common guidelines for good research practice are not followed, so-called Bullshit can happen. There has been a pretty informative course called [Calling Bullshit](https://www.callingbullshit.org/) at the University of Washington dealing with precisely this, and its lectures are available on YouTube.
 
 For example, a "journal" might tell you on LinkedIn that they are interested in publishing your Bachelor's thesis as a scientific article for a given publishing fee. You might feel honored, but most probably, this is a predatory journal that is only interested in your money.
