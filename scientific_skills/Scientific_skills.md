@@ -55,11 +55,15 @@ In your thesis, you are expected to demonstrate scientific writing skills no mat
 
 ### :microscope: How is science organized
 
-Which respective roles do industry and academia play in R&D? Are the goals of fundamental and applied research different? Why is my individual research project funded at all? In applied research, where is the line between creation of public knowledge and regional economic support? In which way does the next election influence research funding? I argue that at least in automated driving today, answering these questions is crucial if you want to be aware of what you are doing within the greater context of society. 
-I am wondering what is the best way to let students somehow deal with these topics because I am convinced it could give them more purpose and orientation in their otherwise very technical studies. 
-Somewhat related to this, I was glad to hear that RWTH has introduced the online course "[Scientific Integrity](https://www.gdi.rwth-aachen.de/cms/GDI/Das-Lehr-und-Forschungsgebiet/Aktuelle-Meldungen/~kjvtr/Wissenschaftliche-Integritaet/?lidx=1)" as a prerequisite for students to begin their Master's theses. It appears to be covering the [Guidelines for Safeguarding Good Research Practice. Code of Conduct](https://zenodo.org/record/3923602#.YGgx_edCRPY) of the Deutsche Forschungsgemeinschaft. Interestingly, I have not yet heard of such a compulsory course for PhD students.
+Which respective roles do industry and academia play in R&D? Are the goals of fundamental and applied research different? Why is my individual research project funded at all? In applied research, where is the line between creation of public knowledge and regional economic support?
+
+In the field of automated driving, dealing with these questions might give you more purpose and orientation about what you are doing within the greater context of society.
+Contributions about further material on this are welcome!
+
+Somewhat related to this, RWTH has introduced the online course "[Scientific Integrity](https://www.gdi.rwth-aachen.de/cms/GDI/Das-Lehr-und-Forschungsgebiet/Aktuelle-Meldungen/~kjvtr/Wissenschaftliche-Integritaet/?lidx=1)". It appears to be covering the [Guidelines for Safeguarding Good Research Practice. Code of Conduct](https://zenodo.org/record/3923602#.YGgx_edCRPY) of the Deutsche Forschungsgemeinschaft.
 
 ### :shit: Recognizing pseudo-science
 
-If common guidelines for good research practice are not followed, so-called Bullshit can happen. There has been a pretty informative course called [Calling Bullshit](https://www.callingbullshit.org/) at the University of Washington dealing with precisely this, and its lectures are available on YouTube. Topics include:
--
+If common guidelines for good research practice are not followed, so-called Bullshit can happen. There has been a pretty informative course called [Calling Bullshit](https://www.callingbullshit.org/) at the University of Washington dealing with precisely this, and its lectures are available on YouTube. 
+
+For example, a "journal" might tell you on LinkedIn that they are interested in publishing your Bachelor's thesis as a scientific article for a given publishing fee. You might feel honored, but most probably, this is a predatory journal that is only interested in your money.
