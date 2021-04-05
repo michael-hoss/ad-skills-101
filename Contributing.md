@@ -21,7 +21,7 @@ You can also submit an [issue](https://github.com/michael-hoss/ad-skills-101/iss
 
 ### Maintainers
 
-The project was set up and is currently maintained by [@michael-hoss](https://github.com/michael-hoss), a PhD student and research associate at the [Research Area Vehicle Intelligence & Automated Driving](https://www.ika.rwth-aachen.de/en/research/projects/automated-driving.html) at the Institute for Automotive Engineering of RWTH Aachen University, Germany. 
+The project is currently maintained by [@michael-hoss](https://github.com/michael-hoss).
 
 
 
