@@ -3,7 +3,7 @@
 Studying is most effective if you have a goal mind. This goal could be building your own automated vehicle with your fellow students, acquiring the needed skills for a thesis or internship, or contributing to an open source driving function.
 
 
-## Student theses or student research assistant jobs
+## 🎓 Student theses or student research assistant jobs
 
 Institutes of RWTH Aachen University that work on automated driving or autonomous mobile robotics:
 
@@ -14,12 +14,12 @@ Institutes of RWTH Aachen University that work on automated driving or autonomou
 - [IGMR - Robotics and Mechatronics](https://www.igmr.rwth-aachen.de/index.php/de/rob)
 - Contributions about further research activities at RWTH are welcome.
 
-If you find a topic you want to work on at an institute's website, but there is no related job or thesis advertisement, it is usually a good idea to write a speculative application with at least your CV and transcript of records.
+If you find a topic you could work on at an institute's website, but there is no related job or thesis advertisement, it is usually a good idea to write a speculative application with at least your CV and transcript of records.
 
 Furthermore, Fachschaft Maschinenbau offers a [platform for student jobs and theses](https://www.fsmb.rwth-aachen.de/jobs/), but not all jobs advertised at the institutes' websites are also listed there.
 
 
-## Internships and working student jobs
+## 👔 Internships and working student jobs
 
 Internships and working student jobs are possible at:
 - Companies who build entire automated driving systems
@@ -28,7 +28,7 @@ Internships and working student jobs are possible at:
 - Engineering service providers
 - Research institutions (research internships)
 
-## Student associations
+## 👨‍🎓 👩‍🎓 Student associations
 
 Student associations of RWTH Aachen University that work on automated driving or autonomous mobile robotics:
 - [Ecurie Aix](https://ecurie-aix.de/), the formula student driverless team
@@ -40,7 +40,7 @@ Student associations of RWTH Aachen University that work on automated driving or
 There is also an overview site of [competitions that RWTH teams participate in](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/~pdrx/Studentische-Wettbewerbe/lidx/1/).
 
 
-## Open source repositories
+## :octocat: Open source repositories
 
 The following open source repositories might be interesting to contribute to as a student.
 
