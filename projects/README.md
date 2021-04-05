@@ -12,6 +12,7 @@ Institutes of RWTH Aachen University that work on automated driving or autonomou
 - [irt - Group Mobility](https://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izpn/Mobilitaet/?lidx=1) and [Group Navigation Solutions](https://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izql/Navigationsloesungen/lidx/1/)
 - [Cybernetics Lab - Mobile Robotics](https://cybernetics-lab.de/en/research-groups/mobilerob)
 - [IGMR - Robotics and Mechatronics](https://www.igmr.rwth-aachen.de/index.php/de/rob)
+- [SE - Team Automotive](https://www.se-rwth.de/teams/automotive/)
 - Contributions about further research activities at RWTH are welcome.
 
 If you find a topic you could work on at an institute's website, but there is no related job or thesis advertisement, it is usually a good idea to write a speculative application with at least your CV and transcript of records.
