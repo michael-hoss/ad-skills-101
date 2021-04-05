@@ -5,7 +5,7 @@ Whether or not you can officially include them into your own curriculum depends 
 
 Please help keeping these lists up-to-date!
 
-## Lectures at mechanical engineering faculty
+## 🔧 Lectures at mechanical engineering faculty
 
 | Lecture |  Comment |
 | ----    |  ----    |
@@ -27,7 +27,7 @@ Please help keeping these lists up-to-date!
 
 
 
-## Lectures at computer science faculty
+## 💻 Lectures at computer science faculty
 
 | Lecture |  Comment |
 | ----    |  ----    |
@@ -46,7 +46,7 @@ Please help keeping these lists up-to-date!
 
 
 
-## Lectures at mathematics faculty
+## 👨‍🏫 Lectures at mathematics faculty
 
 | Lecture |  Comment |
 | ----    |  ----    |
