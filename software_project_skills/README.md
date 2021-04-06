@@ -44,8 +44,8 @@ Those further resources might help you structure your project more like Lego tha
 #### READMEs in markdown syntax
 
 As you might have noticed in this repository, I am a big fan of markdown files (`.md`) because they are easy to write, their contents can be tracked in Git, and they render beautifully in both GitHub and GitLab. Those tutorials help you write good markdown READMEs:
-[GitHub: mastering markdown](https://guides.github.com/features/mastering-markdown/)
-[Interactive lessons on how to learn markdown](https://www.markdowntutorial.com/lesson/1/)
+* [GitHub: mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* [Interactive lessons on how to learn markdown](https://www.markdowntutorial.com/lesson/1/)
 
 #### Generated documentation from code comments
 While self-written markdown is good for higher-level information about your project, you might want to use a dedicated tool to automatically generate the documentation of the lower-level details of your code (files, classes, functions, etc.)
