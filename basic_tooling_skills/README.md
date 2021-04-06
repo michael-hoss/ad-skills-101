@@ -38,8 +38,9 @@ It is extremely helpful to learn those skills before continuing with the content
 
 If you are a student of RWTH Aachen University, you can learn ROS in the context of automated driving with the [Self-Driving Lab I - Software Framework](https://git.rwth-aachen.de/ika/sdl1-ws2020) materials from RWTH's GitLab.
 
-In any case, the [official ROS tutorial](http://wiki.ros.org/ROS/Tutorials) is an excellent source for learning ROS in general.  
+In any case, the [official ROS 1 tutorial](http://wiki.ros.org/ROS/Tutorials) is an excellent source for learning ROS in general.
 
+Currently ROS 1 is widely used and therefore most ROS software you find in the internet is written in ROS1. ROS 2 is an important update as it provides real-time capability and many more new features. ROS 2 is getting more popular so you may also have a look at the [official ROS 2 tutorial](http://index.ros.org/doc/ros2/Tutorials).
 
 
 
