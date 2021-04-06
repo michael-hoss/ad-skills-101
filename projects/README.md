@@ -50,7 +50,7 @@ As a beginner, you will hardly understand what these projects do and how they ar
 | Open-source project | Description |
 | --- | --- |
 | [Autoware.AI](https://github.com/Autoware-AI) | an automated driving function based on ROS1 |
-|  [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)  | an automated driving function based on ROS2 |
+| [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)  | an automated driving function based on ROS2 |
 | [Apollo](https://github.com/ApolloAuto/apollo) | another automated driving function |
 | [CARLA](https://github.com/carla-simulator/carla) | an automated driving simulation engine |
 | [ROS](https://github.com/ros2) | the most well-known software framework for automated driving R&D |

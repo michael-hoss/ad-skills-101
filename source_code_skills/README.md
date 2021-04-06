@@ -18,7 +18,7 @@ You can learn the other language later on.
 
 ### 💻 Source code topics to cover in any language
 
-No matter which languge you learn, you should cover 
+No matter which language you learn, you should cover
 - basic syntax like functions, loops, if-else, switch case etc.
 - reading and writing from files and from the command line
 - object-oriented design

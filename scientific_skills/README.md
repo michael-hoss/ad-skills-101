@@ -10,7 +10,7 @@ You should also acquire the following skills.
 
 In your studies so far, chances are that your literature resources were spoon-fed to you in the form of PowerPoint slides or lecture scripts.
 When you start doing your own research, you have to find, manage, evaluate, and cite the relevant literature on your own.
-You might be wondering which types of sources can, and if so, should be cited in a thesis in which way? What are the relevant differences between conference papers, journal articles, preprints, books, book chapters, other theses, news articles, blog entries, patents, repository readmes, project deliverables etc.?
+You might be wondering which types of sources can, and if so, should be cited in a thesis in which way? What are the relevant differences between conference papers, journal articles, preprints, books, book chapters, other theses, news articles, blog entries, patents, repository READMEs, project deliverables etc.?
 
 The booklet [How to use, cite and reference literature effectively](https://wedc-knowledge.lboro.ac.uk/details.html?id=19409) by Loughborough University might be a great help for scientifically dealing with literature.
 #### Search techniques
