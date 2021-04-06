@@ -2,7 +2,7 @@
 
 ### What to contribute
 
-Contributions are welcome, espcially regarding
+Contributions are welcome, especially regarding
 - External material to be linked here (tutorials, YouTube videos, blog posts, MOOCs, other repositories, anything that facilitates acquiring the needed skills).
 - Explanations given in this repository.
 - Optimization of the repository structure such that students are least confused about all the new topics.

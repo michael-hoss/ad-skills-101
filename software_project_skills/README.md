@@ -34,8 +34,8 @@ A project with a bad architecture is like a ball of filthy wool.  Trying to use 
 Those further resources might help you structure your project more like Lego than like wool:
 | Resource | Description | Recommendation |
 | --- | --- | ---- |
-| [Clean Architecture](todo) | A classical book for software developers | Read this to make your future software architecture cleaner.  |
-| [SOLID principles](todo) | Website explaining the so-called SOILD principles of good software architecture | Boiled-down essence of the "Clean Architecture" textbook.  |
+| [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) | A classical book for software developers | Read this to make your future software architecture cleaner.  |
+| [SOLID principles](https://dzone.com/articles/solid-principles-basic-building-blocks-of-a-clean) | Website explaining the so-called SOILD principles of good software architecture | Boiled-down essence of the "Clean Architecture" textbook.  |
 
 
 
@@ -43,7 +43,9 @@ Those further resources might help you structure your project more like Lego tha
 
 #### READMEs in markdown syntax
 
-As you might have noticed in this repository, I am a big fan of markdown files (`.md`) because they are easy to write, their contents can be tracked in Git, and they render beautifully in both GitHub and GitLab. Those tutorials help you write good markdown READMEs: todo.
+As you might have noticed in this repository, I am a big fan of markdown files (`.md`) because they are easy to write, their contents can be tracked in Git, and they render beautifully in both GitHub and GitLab. Those tutorials help you write good markdown READMEs:
+[GitHub: mastering markdown](https://guides.github.com/features/mastering-markdown/)
+[Interactive lessons on how to learn markdown](https://www.markdowntutorial.com/lesson/1/)
 
 #### Generated documentation from code comments
 While self-written markdown is good for higher-level information about your project, you might want to use a dedicated tool to automatically generate the documentation of the lower-level details of your code (files, classes, functions, etc.)
@@ -55,9 +57,9 @@ But always remember: a good documentation can be pretty short if you have alread
 
 | Tool | Supported languages | Description |
 | ---  | --------------      | ------ |
-| [doxygen](todo) | C++, ?   | Standard way |
-| [pydoc]() | Python | Standard way |
-| Sphinx | Python | Looks like readthedocs |
+| [doxygen](https://www.doxygen.nl/manual/starting.html) | C/C++ (Java, PHP, Python)   | Standard way |
+| [pydoc](https://docs.python.org/3/library/pydoc.html) | Python | Standard way |
+| [Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) | Python | Looks like readthedocs |
 
 
 
@@ -103,7 +105,7 @@ Perhaps the most common chat programs for companies and especially software deve
 
 #### Kanban board
 
-Without going too much into the details of agile software development, the concept of a Kanban board can help you organize the work in your intership or thesis.
+Without going too much into the details of agile software development, the concept of a Kanban board can help you organize the work in your internship or thesis.
 
 
 

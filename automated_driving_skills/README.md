@@ -14,7 +14,7 @@ to acquire skills and knowledge specific to automated driving itself.
 
 Check out this material to quickly get into a sub-topic of automated driving:
 
-Contributions about *public* and *beginner-friendly* material on the follwing sub-topics are welcome!
+Contributions about *public* and *beginner-friendly* material on the following sub-topics are welcome!
 
 | Topic | Resource | Resource description |
 | --- | ---- | ---- |
