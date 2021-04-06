@@ -13,7 +13,7 @@ Contributions are welcome, especially regarding
 Ideally, use pull requests.
 - [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repository.
 - Implement your contribution in the markdown files (`.md`) in your fork.
-- Submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 
+- Submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - In the pull request, we will discuss whether and how to include your contribution into the original repository.
 
 You can also submit an [issue](https://github.com/michael-hoss/ad-skills-101/issues) to make the maintainers aware of something.
@@ -22,8 +22,3 @@ You can also submit an [issue](https://github.com/michael-hoss/ad-skills-101/iss
 ### Maintainers
 
 The project is currently maintained by [@michael-hoss](https://github.com/michael-hoss).
-
-
-
-
-

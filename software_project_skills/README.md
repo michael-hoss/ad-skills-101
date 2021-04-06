@@ -99,7 +99,7 @@ todo: include video that explains how to use issues and pull requests.
 
 #### Chats
 
-Perhaps the most common chat programs for companies and especially software developers are Slack (closed-source) and Mattermost (open-source version exists). 
+Perhaps the most common chat programs for companies and especially software developers are Slack (closed-source) and Mattermost (open-source version exists).
 
 
 

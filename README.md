@@ -12,7 +12,7 @@ This repository collects resources that teach you the most essential fundamental
 
 Ideally, you already desire mastering a certain practical project within automated driving, but you notice that you are lacking some fundamentals to make decent progress. This is the perfect time to refresh your skills with the following materials.
 
-#### Get your CP: [Choose useful elective courses](projects/Lectures_at_RWTH.md) 
+#### Get your CP: [Choose useful elective courses](projects/Lectures_at_RWTH.md)
 If you want to go into automated driving, study it as much as you can within your credited work such that you don't have learn everything in your free time.
 
 
