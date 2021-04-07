@@ -55,7 +55,7 @@ In this setting, chances are that you do not enjoy working simultaneously, resol
 The good news is that the version control system Git makes all of these things super easy, so you should definitively learn it!
 The following YouTube tutorial seems to cover all essentials.
 
-[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk).
+**[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)**.
 
 Furthermore, terms to differentiate are:
 - [Git](https://git-scm.com/): the version control system itself; it is a local command line application.
@@ -64,17 +64,66 @@ Furthermore, terms to differentiate are:
   - [premium GitLab version]((https://git.rwth-aachen.de/)) for education, and the
   - [free and open source GitLab version](https://git-ce.rwth-aachen.de) for projects with industry partners.
 - [GitKraken](https://www.gitkraken.com/): one of the most popular desktop GUIs (graphical user interfaces) for Git that helps you manage your Git repository.
+  - I recommend initially applying all Git commands in the command line. Only like this you will actually understand them!
+  - Through GitKraken, you can get a better overview over your Git branches. Once you are confident about a certain Git command, you can also execute it in the GitKraken GUI.
 - A *Git workflow*: a way to integrate multiple software features that have been developed by different people on different so-called *Git branches* into one single stable branch. Example video: [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI&t=41s).
 
 ## IDEs
 
+An integrated development environment (IDE) is a program that can make it easy for you to program and develop software.
+It usually has at least a source code editor, a compiler or interpreter, and a debugger (see also the [Wikipedia article](https://en.wikipedia.org/wiki/Integrated_development_environment)).
+
+For beginners, IDEs are often a "double-edged sword": since IDEs are usually designed for professionals, they have so many features and options for configuration that you can easily get confused and lost.
+Therefore, it is usually a good idea to really dedicate some time to understand your IDE and configure it according to your needs.
+
+If you come from an "all-in-one solution" such as MATLAB, the following disambiguation might help you understand what an IDE actually consists of.
+
+| Term | Description |
+| --- | --- |
+| [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) | Program that integrates all the other tools into one GUI. |
+| [Language](https://en.wikipedia.org/wiki/Programming_language) | Note that a programming language itself can be specified with pen and paper only! See e.g. [C++ standard](https://isocpp.org/std/the-standard). |
+| [Compiler](https://en.wikipedia.org/wiki/Compiler) | Program that translates source code to binary code according to the specification of a programming language. This is where the language comes to life. Used for C++. |
+| [Interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)) | Program that directly executes your code without having to compile it. Used for Python and MATLAB. |
+| [Debugger](https://en.wikipedia.org/wiki/Debugger) | Program to test and debug other programs. |
+| [Further IDE-provided functionalities](https://en.wikipedia.org/wiki/Integrated_development_environment)  | For example, syntax highlighting, code completion, refactoring, a Git GUI, code search and replace functionalities, a terminal, an object browser etc. |
+
 ### IDEs for C++
 
-CLion, QtCreator (with ROS plugin)
+Many IDEs focus on supporting one programming language only.
+The following IDEs are most common for beginners who program ROS nodes in C++.
+
+#### QtCreator
+
+- Maybe the most beginner-friendly way to develop ROS nodes in C++.
+- There is a helpful [plugin for ROS1 and its catkin build system](https://ros-qtc-plugin.readthedocs.io/en/latest/index.html).
+  - After installation, import your existing catkin workspace [like this](https://ros-qtc-plugin.readthedocs.io/en/latest/_source/Import-ROS-Workspace.html).
+  - After importing the `catkin_workspace`, you can use the "Hammer" symbol in the bottom left corner instead of `catkin build`.
+- QtCreator's GUI is probably easier to understand than the GUI of more professional IDEs, but it might also have some bugs here and there.
+
+
+#### [CLion](https://www.jetbrains.com/clion/)
+- More advanced and reliable C++ IDE by JetBrains.
+- Educational license should be available.
+- [ROS setup tutorial by JetBrains](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html)
+- YouTube video: [Using CLion to edit and build ROS Package](https://www.youtube.com/watch?v=8uH-ghZVDH8).
 
 ### IDEs for Python
 
-PyCharm
+#### [PyCharm](https://www.jetbrains.com/pycharm/)
+- Probably the most common Python IDE.
+- The community edition is totally fine for beginners.
+- Also by JetBrains, so it is similar to CLion.
+- YouTube video: [PyCharm + Ros Setup Guide](https://www.youtube.com/watch?v=lTew9mbXrAs)
+
+### IDEs for both C++ and Python
+
+There are also IDEs that support various languages if they are configured accordingly. The most common are:
+
+| IDE  | Explanation |
+|--- | --- |
+| [Visual Studio Code](https://code.visualstudio.com/)  | Highly used, good, reliable, and free product from Microsoft, for both C++ and Python. <br> Check out this [YouTube video: How to Setup VSCode for ROS](https://www.youtube.com/watch?v=RXyFSnjMd7M). |
+| [Eclipse](http://wiki.ros.org/IDEs#Eclipse) | Highly customizable, but maybe too complex for beginners of C++ or Python?  |
+| [ROS IDEs](http://wiki.ros.org/IDEs)  |  Official overview of ROS IDEs, where the IDEs mentioned here are also listed.|
 
 
 ## Language-specific tooling
@@ -83,6 +132,8 @@ PyCharm
 ### Tooling for C++
 
 CMake, make, compiling, linking, static and shared libraries, how to include files etc.
+
+https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation
 
 
 ### Tooling for Python

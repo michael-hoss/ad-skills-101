@@ -3,7 +3,7 @@
 The following lectures are *related to automated driving*.
 Whether or not you can officially include them into your own curriculum depends on the regulations of your course of study.
 
-Please help keeping these lists up-to-date!
+Please help keeping these lists up-to-date! Links are deliberately not provided because they are likely hard to keep up-to-date.
 
 ## 🔧 Lectures at mechanical engineering faculty
 

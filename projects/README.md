@@ -7,7 +7,7 @@ Studying is most effective if you have a goal mind. This goal could be building 
 
 Institutes of RWTH Aachen University that work on automated driving or autonomous mobile robotics:
 
-- [ika - Research Area Vehicle Intelligence & Automated Driving](https://www.ika.rwth-aachen.de/en/education/students/student-theses/recent-topics/automated-driving-department.html) (workplace of this repository's maintainer)
+- [ika - Research Area Vehicle Intelligence & Automated Driving](https://www.ika.rwth-aachen.de/en/education/students/student-theses/recent-topics/automated-driving-department.html)
 - [i11 - Cyber-Physical Mobility Group](https://www.embedded.rwth-aachen.de/doku.php?id=en:forschung:mobility)
 - [irt - Group Mobility](https://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izpn/Mobilitaet/?lidx=1) and [Group Navigation Solutions](https://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izql/Navigationsloesungen/lidx/1/)
 - [Cybernetics Lab - Mobile Robotics](https://cybernetics-lab.de/en/research-groups/mobilerob)
@@ -20,7 +20,7 @@ If you find a topic you could work on at an institute's website, but there is no
 Furthermore, Fachschaft Maschinenbau offers a [platform for student jobs and theses](https://www.fsmb.rwth-aachen.de/jobs/), but not all jobs advertised at the institutes' websites are also listed there.
 
 
-## 👔 Internships and working student jobs
+## :office: Internships and working student jobs
 
 Internships and working student jobs are possible at:
 - Companies who build entire automated driving systems
@@ -51,7 +51,7 @@ As a beginner, you will hardly understand what these projects do and how they ar
 | --- | --- |
 | [Autoware.AI](https://github.com/Autoware-AI) | an automated driving function based on ROS1 |
 | [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto)  | an automated driving function based on ROS2 |
-| [Apollo](https://github.com/ApolloAuto/apollo) | another automated driving function |
+| [Apollo](https://github.com/ApolloAuto/apollo) | a popular software and hardware platform for automated driving |
 | [CARLA](https://github.com/carla-simulator/carla) | an automated driving simulation engine |
-| [ROS](https://github.com/ros2) | the most well-known software framework for automated driving R&D |
+| [ROS2](https://github.com/ros2) | the most well-known software framework for automated driving R&D |
 | [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) | an HD map format and framework for automated driving |

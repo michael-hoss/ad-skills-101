@@ -20,7 +20,7 @@ If you want to go into automated driving, study it as much as you can within you
 
 You typically start by learning the syntax of a higher-level programming language. The most common programming languages for automated driving are
 - [C++](source_code_skills/C++.md)
-- [Python](source_code_skills/Python.md).
+- [Python](source_code_skills/Python.md)
 
 
 ## 🔧 Super essential: [Tooling skills for programming](basic_tooling_skills/README.md)
