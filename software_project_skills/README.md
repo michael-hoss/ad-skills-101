@@ -10,6 +10,7 @@ If you know the pain of having to use someone else's dirty code or even your own
 - Have a *consistent level of abstraction* to keep the overview: e.g., calling your most important high-level function should not happen in between some detailed string manipulations.
 
 Further resources:
+
 | Resource | Description | Recommendation |
 | --- | --- | ---- |
 | [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) | A classical book for software developers | Read this to make your future code cleaner. Examples are given in Java, but the concepts are really helpful for all languages.  |
@@ -19,19 +20,12 @@ Further resources:
 
 ### Clean architecture
 
-
-Imagine the following: your colleague writes some perfectly clean and short Python functions that you would like to re-use.
-Even though your colleague uses them within their ROS project, the functions are actually independent of ROS.
-Sounds perfect, you think, because your own current project is also independent of ROS.
-However, the functions are located in the same package like some other code that depends on ROS.
-This means that if you want to include this package, then you have to install the entire ROS version as well :lightning:
-
-This happens when you think you don't need clean architecture.
 A project with a clean architecture is like Lego blocks that you can easily rearrange. Lego blocks have clearly defined shapes, interfaces, and you know how to stack them on top of each other to build something stable. <!-- You can take the roof of one Lego house and put it on a completely different Lego house as long as the blocks structure supporting the roof is the same. -->
 A project with a bad architecture is like a ball of filthy wool.  Trying to use one specific part of wool from the middle means deforming and destroying the entire ball. Even then, you can hardly be sure whether you got that piece of wool that you actually wanted.
 
 
 Those further resources might help you structure your project more like Lego than like wool:
+
 | Resource | Description | Recommendation |
 | --- | --- | ---- |
 | [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/) | A classical book for software developers | Read this to make your future software architecture cleaner.  |
@@ -95,7 +89,8 @@ Recommendations for useful resources are welcome!
 #### Issues and pull/merge requests on GitHub or GitLab
 Your code project is usually hosted on GitHub or a GitLab instance anyway, so you can also use the collaboration functionalities that these platforms bring.
 
-todo: include video that explains how to use issues and pull requests.
+Check out for example:
+[YouTube Video: Lecture 2.0 - Github : Issues and Pull Requests](https://www.youtube.com/watch?v=LuL60r-XnL4)
 
 #### Chats
 
@@ -107,6 +102,12 @@ Perhaps the most common chat programs for companies and especially software deve
 
 Without going too much into the details of agile software development, the concept of a Kanban board can help you organize the work in your internship or thesis.
 
+Check out for example:
+[Kanban Tutorial: How to Setup a Kanban Board](https://www.youtube.com/watch?v=7MDWfAsrrtw)
+
+Many software tools offer digital Kanban boards, for example in GitLab you can display your issues as a Kanban board.
+
+
 
 
 
@@ -116,7 +117,7 @@ You might have experienced the situation where a colleague has merged bad code i
 They should have tested their code with the entire test suite before pushing it!
 Fortunately, both GitHub and GitLab provide you with many possibilities to test commits online. You can allow merges only if all tests pass, which keeps your main branch stable and usable at all times.
 
-In other words, you continuously integrate your changes into the always-stable main version and don't have to manually run dedicated tests to produce a stable version every once in a while.
+In other words, you continuously integrate your changes into the always-stable main version. Like this, you are able to merge your work multiple times per day! Otherwise, a giant merge of everything you did at the end of your thesis/internship into your colleagues' main project might become too difficult to actually succeed.
 
 Useful material in this context:
 

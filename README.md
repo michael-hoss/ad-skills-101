@@ -1,10 +1,10 @@
 # 🏎️👨‍💻  Automated Driving Skills 101 👩‍💻🏎️
 
-This repository collects resources that teach you the most essential fundamentals to thrive in R&D of automated driving. Our aim is to provide *practical hands-on skills* that theoretical university lectures often don't cover.
+This repository collects resources that teach you the most essential fundamentals to thrive in R&D of automated driving. The aim is to provide *practical hands-on skills* that theoretical university lectures often don't cover.
 
 #### <!-- ℹ️ --> About this repository
 
-- Goal: prepare students for their theses and and assistant jobs at the [ika of RWTH Aachen University](https://github.com/ika-rwth-aachen).
+- Goal: prepare students for their theses and and assistant jobs at research institutes.
 - [Contributions](Contributing.md) are welcome, especially about suitable external resources!
 
 

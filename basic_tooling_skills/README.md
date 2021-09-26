@@ -40,7 +40,7 @@ If you are a student of RWTH Aachen University, you can learn ROS in the context
 
 In any case, the [official ROS 1 tutorial](http://wiki.ros.org/ROS/Tutorials) is an excellent source for learning ROS in general.
 
-Currently ROS 1 is widely used and therefore most ROS software you find in the internet is written in ROS1. ROS 2 is an important update as it provides real-time capability and many more new features. ROS 2 is getting more popular so you may also have a look at the [official ROS 2 tutorial](http://index.ros.org/doc/ros2/Tutorials).
+As of 2021, ROS 1 is still widely used and therefore much ROS software you find in the internet is written in ROS1. ROS 2 is an important update as it provides real-time capability and many more new features. ROS 2 is getting more popular so you may also have a look at the [official ROS 2 tutorial](http://index.ros.org/doc/ros2/Tutorials).
 
 
 
@@ -129,15 +129,6 @@ There are also IDEs that support various languages if they are configured accord
 ## Language-specific tooling
 
 
-### Tooling for C++
+### [Tooling for C++](Tooling_C++.md)
 
-CMake, make, compiling, linking, static and shared libraries, how to include files etc.
-
-https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation
-
-
-### Tooling for Python
-
-conda and pip, virtual environments, PiPy, difference between a package and a module, what does an `__init__.py` file do? etc.
-
-Also have a look at [jupyter-notebook](https://realpython.com/jupyter-notebook-introduction/) as you can analyze and visualize your code in real time in your browser.
+### [Tooling for Python](Tooling_Python.md)

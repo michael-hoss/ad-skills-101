@@ -4,7 +4,7 @@ This page is rather short because this repository mostly aims at teaching you th
 
 ## General
 
-Ideally, you participate in ika's courses
+As a student of RWTH Aachen University, you ideally participate in those courses by ika
 - [Automotive Engineering IV - Automated Driving](https://www.ika.rwth-aachen.de/en/education/students/lectures/3038-automotive-engineering-iv.html)
 - [Self-Driving Lab II - Algorithms](https://www.ika.rwth-aachen.de/en/education/students/lectures/2368-self-driving-lab-2-algorithms.html)
 

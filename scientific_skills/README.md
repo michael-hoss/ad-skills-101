@@ -31,6 +31,7 @@ In practice, the time for literature research in your thesis might be too short 
 #### Literature management tools
 
 You should use a proper software to manage all your PDFs. These tools generate your list of references as needed by Word or Latex. Common choices are:
+
 | Tool | Business model | Fidelity | Word/Latex | Supported Platforms |
 | ---  | ---            | ---------| ---        | --------------      |
 | [Citavi](https://www.citavi.com/de) | proprietary (available through RWTH) | advanced | Word and Latex | Web version; Desktop version for Windows |
@@ -46,6 +47,7 @@ You might program awesome systems, export impressive figures, write in English l
 However, the readers of your paper will only comprehend that and believe you if your claims are backed up by a clear logical argumentation.
 
 I would like to provide more material about this, but for now, can only provide this ad-hoc-searched list. Contributions are welcome.
+
 | Topic | Resource Description |
 | ---- | --------  |
 | [Induction vs. deduction](https://conjointly.com/kb/deduction-and-induction/) | Website |
