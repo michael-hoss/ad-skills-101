@@ -78,3 +78,18 @@ Somewhat related to this, RWTH has introduced the online course "[Scientific Int
 If common guidelines for good research practice are not followed, so-called Bullshit can happen. There has been a pretty informative course called [Calling Bullshit](https://www.callingbullshit.org/) at the University of Washington dealing with precisely this, and its lectures are available on YouTube.
 
 For example, a "journal" might tell you on LinkedIn that they are interested in publishing your Bachelor's thesis as a scientific article for a given publishing fee. You might feel honored, but most probably, this is a predatory journal that is only interested in your money.
+
+### 🌐 Publishing the results of your thesis
+
+Whether and how you can publish the results from your thesis or internship depends heavily on the details of the confidentiality agreement you have probably signed. It is always good to be allowed to publish, but it can be distracting to think too much about it if you have not yet mastered the scientific skills described above. Publishing "something" might sound cool among students, but is not very impressive for the AD community if the quality is low. My take: first high-quality research, then publication. 
+
+#### Publishing your thesis
+If you are allowed to publish your thesis, I recommend making an account at [www.researchgate.net](www.researchgate.net) and uploading it there. This is nice for sharing with your private network, but apart from that, chances are extremely low that your research community will actually take note of it. 
+
+#### Publishing a conference paper
+In some cases, it can make sense to write a conference paper based on your thesis, which has a higher potential for impact in your research community. Publishing a paper is usually complicated enough to only make sense if your supervisor helps you with it because they also want to publish. If your supervisor is a PhD student, you should definitely talk openly about who is responsible for what. This is crucial for drawing an intellectual property line between your student thesis and their PhD thesis (often not so trivial), and for determining the order of paper authorship. 
+
+This list of submission deadlines for conference papers in AD can help you find a suitable conference: https://ad-deadlines.com.
+
+Note: journal articles are also possible, but are generally less common in automated driving. Since journals tend to have higher acceptance criteria than conferences, it would make it even more difficult to get your work accepted.
+
