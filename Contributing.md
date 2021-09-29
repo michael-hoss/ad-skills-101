@@ -21,4 +21,4 @@ You can also submit an [issue](https://github.com/michael-hoss/ad-skills-101/iss
 
 ### Maintainers
 
-The project is currently maintained by [@michael-hoss](https://github.com/michael-hoss).
+I ([@michael-hoss](https://github.com/michael-hoss)) have set up this respository, but only have limited resources to take care of this in the mid and long term. Please contact me if you want to become a maintainer.
