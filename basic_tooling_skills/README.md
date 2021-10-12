@@ -103,7 +103,7 @@ The following IDEs are most common for beginners who program ROS nodes in C++.
 
 #### [CLion](https://www.jetbrains.com/clion/)
 - More advanced and reliable C++ IDE by JetBrains.
-- Educational license should be available.
+- Educational license is available [here](https://www.jetbrains.com/community/education/#students).
 - [ROS setup tutorial by JetBrains](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html)
 - YouTube video: [Using CLion to edit and build ROS Package](https://www.youtube.com/watch?v=8uH-ghZVDH8).
 
